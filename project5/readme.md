@@ -1,0 +1,1 @@
+Bu projede HTML taglerinin son kez tekrarlanarak, kendimizi ölçme ve değerlendirme amaçlı bölüm sonu çalışması ödevini yaptım.
